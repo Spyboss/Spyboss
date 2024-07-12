@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there! I'm Uminda Aberathne
 
-<!--
-**Spyboss/Spyboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate web developer and tech enthusiast.
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm currently focused on building responsive and user-friendly web experiences.  
+🎓 I'm 20 years old and a full-time student, balancing my studies with my love for coding.
+
+## 🔧 Skills
+
+**Frontend:** HTML5, CSS3, JavaScript, React  
+**Backend:** Node.js, Python  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, VS Code
+
+## 🌟 What I Do
+
+- I enjoy creating minimalistic and dark-themed web designs.
+- I have experience in both frontend and backend development.
+- I'm always exploring new technologies and improving my skill set.
+
+## 📫 Contact Me
+
+**WhatsApp:** 0713427470  
+**Instagram:** [@uhadev007](https://www.instagram.com/uhadev007)  
+**Facebook:** [Uminda Aberathne](https://www.facebook.com/uminda.aberathne)
+
+## 📈 GitHub Stats
+
+![Uminda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spyboss&show_icons=true&theme=dark)
+
+## 💡 Projects
+
+Check out my latest projects [here](https://github.com/Spyboss?tab=repositories).
+
+## ⚡ Fun Fact
+
+When I'm not coding, I love exploring new tech trends and sharing cool facts with friends and family.
