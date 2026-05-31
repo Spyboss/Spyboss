@@ -22,8 +22,4 @@ Building client projects (corporate websites, distribution systems) alongside sa
 
 **📖 I write about the process:** Follow my technical devlog at [uminda.dev/devlog](https://uminda.dev/devlog).
 
-Open to remote full-stack opportunities, freelance gigs, or interesting collaborations.
-
-**📍** Embilipitiya, Sri Lanka
-**📧** hello@uminda.dev
-**🌐** [uminda.dev](https://uminda.dev) | [Devlog](https://uminda.dev/devlog)
+Open to remote full-stack opportunities, freelance gigs, or interesting collaborations. — hello@uminda.dev
