@@ -1,26 +1,29 @@
 > uminda@dev:~$ whoami
 
-I build and maintain full-stack systems for real businesses, with a focus on reliability, clear data flow, and predictable, boring deployments.
-
-Currently working hands-on with sales & operations while transitioning to dedicated remote/SaaS development.
+I build and maintain full-stack systems for SMBs, with a focus on reliability, clear data flow, and predictable, boring deployments.
 
 ---
 
 ### 🚀 Production Systems
-*   **[TMR-TradingLanka](https://github.com/Spyboss/tmr-tradinglanka)** – Inventory & sales management for a local business (Node.js, React).
-*   **[InvoiceApp](https://github.com/Spyboss/InvoiceApp)** – Streamlined invoicing deployed for a Piaggio dealership (Python + Tkinter).
-*   **[SriRentABike](https://github.com/Spyboss/SriRentABike)** – A rental management platform.
+
+*   **[TMR-TradingLanka](https://github.com/Spyboss/tmr-tradinglanka)** – Dealership management system for invoicing, inventory, and quotations. Used daily by two motorcycle dealerships in Sri Lanka (Node.js + React).
+*   **[InvoiceApp](https://github.com/Spyboss/InvoiceApp)** – Invoice/proforma generator used at a Piaggio dealership, replacing manual Word/Excel workflows (Python + Streamlit).
+*   **[SriRentABike](https://github.com/Spyboss/SriRentABike)** – Digital rental agreement system replacing paper workflows for bike rental businesses.
+*   **[sbk-tyres](https://github.com/Spyboss/sbk-tyres)** – B2B wholesale tyre ordering system for Australian dealers (Next.js + Supabase).
+*   **[RealTaste](https://github.com/Spyboss/RealTaste)** – Restaurant ordering platform for Sri Lankan takeout businesses (React + Supabase PWA).
 
 ---
 
-### 🌱 Current Direction
-*   Building for long-term maintainability.
-*   Deepening fundamentals through structured
-*   Simplifying architecture: fewer dependencies, clearer state.
+### 🔧 Now
 
+Building client projects (corporate websites, distribution systems) alongside sales work. Transitioning toward full-time remote dev work.
 
 ---
 
 **📖 I write about the process:** Follow my technical devlog at [uminda.dev/devlog](https://uminda.dev/devlog).
 
-If you’re a developer, founder, or team looking for someone who is **early but serious**, who ships, learns deliberately, and values stable architecture, I’d love to talk.
+Open to remote full-stack opportunities, freelance gigs, or interesting collaborations.
+
+**📍** Embilipitiya, Sri Lanka
+**📧** hello@uminda.dev
+**🌐** [uminda.dev](https://uminda.dev) | [Devlog](https://uminda.dev/devlog)
